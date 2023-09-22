@@ -1,4 +1,4 @@
-Chapter 2: Shaping Principles
+# Chapter 2: Shaping Principles
 The "Principles of Shaping" delineate an approach to proficiently strategizing and delineating project tasks. Shaping involves striking the appropriate equilibrium between excessive abstraction and excessive specificity in project descriptions.
 
 Key Tenets
