@@ -25,8 +25,6 @@ Depending on third-party services that require heavy customization or that donâ€
 Video or voice chat: Sticking to text-based chat to ensure quick, concise communication and to avoid potential regulatory complications with video/voice.
 Multi-agent chat (more than one support staff chatting with a user at once): This can confuse the user and isnâ€™t necessary for our initial roll-out.
 Archiving chat histories for more than 30 days: To ensure data privacy and reduce storage needs.
-Breadboarding:
 
-
-
-
+here is the deliverable PDF along with the breadboarding design:
+[Deliverable 1 _ Shaped Work (1).pdf](https://github.com/elmaz1905/seg4105_playground/files/12861060/Deliverable.1._.Shaped.Work.1.pdf)
