@@ -1,5 +1,11 @@
 **OUTLINED MEETINGS**
 
+
+**Pitch Review ( October 13th 2023)**
+
+  - Pitch review will be done during lab hours
+
+
 **The bet meeting ( October 17th 2023)**
 
   - Meetings will be held on MS teams
