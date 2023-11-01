@@ -1,6 +1,8 @@
 **CHAPTER 13: SHOW PROGRESS**
 
 
+As a developer, your task to keep track of progress would include:
+
 *Updating Scopes:*
 
 - You would define and update the scopes of work as they evolve, ensuring that both completed and newly discovered tasks are reflected accurately.
